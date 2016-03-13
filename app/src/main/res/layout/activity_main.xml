@@ -9,4 +9,22 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.abinthomasonline.birthcertificate.MainActivity">
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/district"
+        android:layout_alignParentLeft="true"
+        android:text="@string/district"
+        android:textSize="@dimen/text_size"
+         />
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:id="@+id/district_spinner"
+        android:layout_toRightOf="@+id/district"
+        ></Spinner>
+
+
+
 </RelativeLayout>

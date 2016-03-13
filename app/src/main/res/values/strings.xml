@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">BirthCertificate</string>
+    <string name="district">District :</string>
+    <string-array name="district_array">
+        <item>Thiruvananthapuram</item>
+        <item>Kollam</item>
+        <item>Pathanamthitta</item>
+        <item>Alappuzha</item>
+        <item>Kottayam</item>
+        <item>Idukki</item>
+        <item>Ernakulam</item>
+        <item>Thrissur</item>
+        <item>Palakkad</item>
+        <item>Malappuram</item>
+        <item>Kozhikkode</item>
+        <item>Wayanad</item>
+        <item>Kannur</item>
+        <item>Kasaragod</item>
+    </string-array>
 </resources>
